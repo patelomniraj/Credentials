@@ -33,7 +33,7 @@
 - Degree: B.Tech Computer Science and Design
 - University: GCET, CVM University
 - CGPA: 9.06/10
-- Graduation: June 2024
+- Graduation: May 2026
 
 ## 🚀 Experience
 
