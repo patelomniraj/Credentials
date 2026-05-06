@@ -41,5 +41,5 @@ Tech Elecon Internship - Built explainable AI system for fault prediction, manag
 
 ## 📬 Contact
 
-- LinkedIn:https://github.com/patelomniraj
+- LinkedIn: https://www.linkedin.com/in/om-patel-22730b317/
 - Email: patelomniraj@gmail.com
