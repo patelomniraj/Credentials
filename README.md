@@ -3,6 +3,7 @@
 ## 🎓 Certifications
 
 - Tech Elecon Internship Certificate
+- Claude 101
 - NPTEL Cloud Computing Certification
 - Learn Quest (Introduction to Java,Introduction to Object-Oriented Programming with Java,Object-Oriented Hierarchies in Java,Java Class Library)
 
